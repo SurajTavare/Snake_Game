@@ -1,16 +1,18 @@
-# snake_game
+# 🐍 Snake Game App
 
-A new Flutter project.
+A simple and fun **Snake Game** built with **Flutter**.  
+The game includes two difficulty modes: **Easy** and **Hard** for an engaging experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎮 Features
+- Classic snake gameplay.
+- **Easy Mode** – slower speed, relaxed play.
+- **Hard Mode** – more challenging.
+- Score tracking.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Flutter** – Cross-platform mobile app development.
+- **Dart** – Programming language.
