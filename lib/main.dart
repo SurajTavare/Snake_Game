@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/icons/Snake.png'), // Your image path here
+                image: AssetImage('assets/icons/Snake.png'), 
                 fit: BoxFit.fill,
               ),
             ),
@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               SizedBox(height: 20), // Spacing from top
-              // Your other column children
+              
             ],
           ),
           Positioned(
